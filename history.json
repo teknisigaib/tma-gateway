@@ -48,7 +48,7 @@
   {
     "station": "POS DUGA AIR MAHAKAM LONG IRAM",
     "data": [
-        { "record_date": "2026-10-21 00:00:00", "tma_07": null },
+        { "record_date": "2026-10-21 00:00:00", "tma_07": 1.94 },
         { "record_date": "2026-10-20 00:00:00", "tma_07": 1.45 },
         { "record_date": "2026-10-19 00:00:00", "tma_07": 1.91 },
         { "record_date": "2026-10-18 00:00:00", "tma_07": 0.31 },
@@ -64,8 +64,8 @@
   {
     "station": "POS DUGA AIR MAHAKAM PENYINGGAHAN ULU",
     "data": [
-        { "record_date": "2026-10-21 00:00:00", "tma_07": null },
-        { "record_date": "2026-10-20 00:00:00", "tma_07": null },
+        { "record_date": "2026-10-21 00:00:00", "tma_07": 3.29 },
+        { "record_date": "2026-10-20 00:00:00", "tma_07": 3.18 },
         { "record_date": "2026-10-19 00:00:00", "tma_07": 3.30 },
         { "record_date": "2026-10-18 00:00:00", "tma_07": 3.30 },
         { "record_date": "2026-10-17 00:00:00", "tma_07": 3.50 },
@@ -94,8 +94,8 @@
   {
     "station": "POS DUGA AIR MAHAKAM TENGGARONG",
     "data": [
-        { "record_date": "2026-10-21 00:00:00", "tma_07": null },
-        { "record_date": "2026-10-20 00:00:00", "tma_07": null },
+        { "record_date": "2026-10-21 00:00:00", "tma_07": 1.38 },
+        { "record_date": "2026-10-20 00:00:00", "tma_07": 1.56 },
         { "record_date": "2026-10-19 00:00:00", "tma_07": 0.64 },
         { "record_date": "2026-10-18 00:00:00", "tma_07": 1.64 },
         { "record_date": "2026-10-17 00:00:00", "tma_07": 1.52 },
