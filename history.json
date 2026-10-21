@@ -109,7 +109,7 @@
   {
     "station": "POS DUGA AIR KARANG MUMUS KP 3",
     "data": [
-        { "record_date": "2026-10-21 00:00:00", "tma_07": null },
+        { "record_date": "2026-10-21 00:00:00", "tma_07": 2.37 },
         { "record_date": "2026-10-20 00:00:00", "tma_07": 2.26 },
         { "record_date": "2026-10-19 00:00:00", "tma_07": 2.29 },
         { "record_date": "2026-10-18 00:00:00", "tma_07": 2.31 },
