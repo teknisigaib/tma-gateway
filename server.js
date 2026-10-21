@@ -5,7 +5,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 const app = express();
-const PORT = 3000;
+const PORT = 3009;
 
 // Daftar titik yang akan diambil
 const TARGET_STATIONS = [
