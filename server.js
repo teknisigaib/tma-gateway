@@ -144,7 +144,7 @@ app.get('/api/sync', async (req, res) => {
 // 4. CRON JOB: Ambil API BWS Setiap 1 Jam & Filter
 // ---------------------------------------------------------
 // Format cron '0 * * * *' artinya berjalan setiap pergantian jam (01.00, 02.00, dst)
-cron.schedule('0 * * * *', async () => {
+cron.schedule('*/30 * * * *', async () => {
     console.log('[CRON] Memulai proses sinkronisasi BWS (Per 1 Jam)...');
 
     try {
